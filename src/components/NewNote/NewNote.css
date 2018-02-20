@@ -1,0 +1,15 @@
+.new-note {
+  padding: 10px;
+  background-color: #e9e9ef;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.new-note-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}

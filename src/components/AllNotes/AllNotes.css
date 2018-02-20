@@ -1,0 +1,9 @@
+.all-notes {
+  padding: 10px;
+  background-color: #e9e9ef;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-grow: 1;
+  overflow: auto; 
+}

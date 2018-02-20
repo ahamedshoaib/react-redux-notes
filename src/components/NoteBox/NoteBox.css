@@ -1,0 +1,24 @@
+.note-box-input {
+  flex-grow: 1;
+}
+
+.note-box {
+  padding: 10px;
+  background-color: #e9e9ef;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.note-box-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.save-button {
+  background-color: #e9e9ef;
+  font-weight: bold;
+  border: 0px hidden black;
+}
